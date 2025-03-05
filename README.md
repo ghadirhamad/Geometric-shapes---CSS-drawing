@@ -1,11 +1,11 @@
 # Geometric Shapes - CSS Drawing
-![Screenshot of Shapes](shapes.jpg)
+![Screenshot of various geometric shapes created using CSS](shapes.png)
 This project demonstrates how to draw various geometric shapes using only CSS. The goal is to showcase the power and flexibility of CSS in creating visually appealing shapes without relying on images or JavaScript.
 
 ## Shapes Included
 
 - Circle
-- Square
+- Rectangle
 - Triangle
 
 ## Getting Started
